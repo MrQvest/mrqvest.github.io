@@ -1,14 +1,16 @@
 ---
 title: Filme de Arquivo
-draft: true
+draft: false
 tags:
   - university
+  - portfolio/filme-ensaio
 date: 2026-06-21
 modified: 2026-06-21
 ---
 # Relatório de Processo
-> [!important] **Diretriz Essencial: Tese de Montagem**
-> A tese de montagem não é o tema do filme, mas sim o argumento demonstrado estritamente através da justaposição das imagens. Se o argumento funciona sem as imagens (apenas por meio de uma narração em off ou texto), a tese ainda não é uma tese de montagem.
+
+![](https://youtu.be/Rbloulynenw)
+Ian Meyer, 2026, YouTube.
 
 ---
 
@@ -37,56 +39,32 @@ Esse desenvolvimento resulta em uma disparidade temporal: o antigo vilão, agora
 > [!info] Nota
 > somente utilizou-se acervo pessoal para construção do filme de arquivo
 
+Episódios utilizados:
+- Temporada 5, episódio 25: The Cutie Re-Mark, Part I
+- Temporada 5, episódio 26: The Cutie Re-Mark, Part II
+- Temporada 6, episódio 26: To Where and Back Again, Part II
 ### Materiais Descartados
-| Material / Link       | Origem        | Razão do Descarte                                                                                       |
-| :-------------------- | :------------ | :------------------------------------------------------------------------------------------------------ |
-| [Título ou Descrição] | [Ex: YouTube] | [Explicar detalhadamente por que o material foi retirado e por que ele não servia ao argumento da tese] |
-|                       |               |                                                                                                         |
+| Material / Link                                                 | Origem  | Razão do Descarte                                                                                                                                                |
+| :-------------------------------------------------------------- | :------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [To Where and Back Again, Part I](https://youtu.be/R-EEgD3xI3c) | YouTube | Apesar de servir como contexto para o episódio seguinte, mantê-lo não adicionaria nada a mais no argumento e o deixaria mais longo por detalhes insignificantes. |
 
 ---
 
 ## PARTE 3 - Log de Clipes
 
-| Título do Material | Origem (URL / Acervo) | Timecode (In - Out) | Fonte | Função na Montagem |
-| :--- | :--- | :--- | :--- | :--- |
-| [CRASH] | [Link ou Identificador] | [00:12:03 - 00:12:45] | YouTube público | [Justificativa editorial da escolha e contribuição para o argumento] |
-| | | | Acervo pessoal | |
-| | | | Arquivo institucional | |
+| Título do Material               | Origem (URL / Acervo) | Timecode (In - Out) | Fonte          | Função na Montagem                                                                                                                                                                                                                           |
+| :------------------------------- | :-------------------- | :------------------ | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Cutie Re-Mark, Part I        | Acervo pessoal        | 01:50 - 09:00       | Acervo pessoal | Serve como ponto de partida da narrativa; estabelece o que está em jogo para, mais tarde, proporcionar um desfecho emocional no clímax da história                                                                                           |
+| The Cutie Re-Mark, Part II       | Acervo pessoal        | 00:00 - 17:03       | Acervo pessoal | Desenvolve o clímax narrativo e demonstra o apelo emocional dos personagens, assim como suas diferenças e crenças; proporciona um desfecho emocional que paraleliza no desenvolvimento do próximo arco de personagem: a redenção do ex-vilão |
+| To Where and Back Again, Part II | Acervo pessoal        | 18:45 - 19:23       | Acervo pessoal | Mostra a redenção e desenvolvimento do agora herói, em um paralelo com a narrativa anterior                                                                                                                                                  |
 
 ---
 
 ## PARTE 4 - Reflexão Editorial
 
 ### Evolução do Corte
-[Descreva as principais mudanças estruturais ocorridas entre a primeira versão (primeiro corte) e a versão final.]
-
+Inicialmente, estava decidido utilizar 4 (quatro) episódios. Por conta de incertezas sobre a montagem e o tempo longo, decidi pela utilização de somente 3.
 ### Decisão Crítica
-[Qual foi o corte mais difícil de decidir, por que ele gerou hesitação e como a decisão foi tomada?]
-
+Obtive extrema dificuldade sobre como decidir fazer essa montagem. Vejo que ainda pode melhorar significativamente na edição para demonstrar os pontos melhor.
 ### Sentido Emergente
-[O que a sequência final, depois de montada, demonstra que os clipes isolados individualmente não eram capazes de demonstrar?]
-
----
-
-## Verificação de Créditos Finais
-
-Use o checklist abaixo para garantir a estrutura obrigatória nos créditos ao fim do filme:
-
-- [ ] 1. Título do filme
-- [ ] 2. Autoria (nome dos alunos)
-- [ ] 3. Tese de montagem (a frase de argumento explícita em tela)
-- [ ] 4. Fontes padronizadas (Formato: `TÍTULO DO MATERIAL, diretor/autor, ano, origem`)
-- [ ] 5. Ano (2026)
-
-*Exemplo de formatação de fonte para os créditos:*
-`CRASH, David Cronenberg, 1996, YouTube.`
-
----
-
->[!check] **Critérios de Avaliação (Checklist de Qualidade)**
-> - [ ] A tese de montagem é visível unicamente pelas imagens (independe de legenda/off para fazer sentido).
-> - [ ] Cada corte e transição possui função clara de aprofundar o argumento.
-> - [ ] O filme apresenta um arco estruturado (começo, desenvolvimento e desfecho).
-> - [ ] O log possui fontes diversas (mínimo de três origens distintas).
-> - [ ] O mapa de pesquisa reflete o processo real, detalhando os descartes.
-> - [ ] A reflexão editorial comprova a reelaboração consciente entre as versões.
+Uma narrativa sobre redenção e desenvolvimento de personagem que culmina em um desfecho emocional e poético, com um paralelo ao início do arco.
