@@ -44,7 +44,7 @@ plugins:
     enabled: true
     options:
       enableInteraction: true
-      darkMode: "auto"
+      darkMode: auto
       exportPadding: 20
   - source: github:quartz-community/created-modified-date
     enabled: true
