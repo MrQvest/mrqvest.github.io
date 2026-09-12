@@ -1,11 +1,12 @@
 ---
+publish: true
 title: Montagem Kuleshov
+created: 2026-06-21
+modified: 2026-06-21
 tags:
   - university
-date: 2026-06-21
-modified: 2026-06-21
-publish: true
 ---
+
 Uma montagem para exercitar o Efeito Kuleshov e seu entendimento.
 ![](https://youtu.be/vU0I_H1YBCE)
 
