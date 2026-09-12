@@ -19,13 +19,6 @@ Essa página atualmente guarda tanto meus projetos pessoais quanto projetos univ
 [[Filme de Arquivo]]
 [[Filme-Ensaio]]
 
-### Cinema - Montagem
-
-[[Montagem de Diálogo]]
-[[Montagem Rítmica]]
-[[Montagem Métrica]]
-[[Montagem Intelectual]]
-
 # Projetos Pessoais
 
 ## Escrita
