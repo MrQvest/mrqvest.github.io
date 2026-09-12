@@ -1,18 +1,19 @@
 ---
+publish: true
 title: Filme-Ensaio
-draft: false
+created: 2026-06-21
+modified: 2026-06-21
 tags:
   - university
-date: 2026-06-21
-modified: 2026-06-21
 ---
+
 O [[Filme de Arquivo]] e o filme-ensaio são os mesmos.
 
 Meu objetivo com esse filme-ensaio é explorar como um vilão pode se tornar herói, e posteriormente servir como âncora para os próximos eventos de uma narrativa.
 
 ![](https://youtu.be/Rbloulynenw)
 
-*My Little Pony: Friendship is Magic*, é um seriado de 2010 que segue a história de uma pônei chamada Twilight em diversas aventuras com suas amigas. Essa é uma história que segue a clássica Jornada do Herói, com altos e baixos, vilões e heróis, vitórias e derrotas.
+_My Little Pony: Friendship is Magic_, é um seriado de 2010 que segue a história de uma pônei chamada Twilight em diversas aventuras com suas amigas. Essa é uma história que segue a clássica Jornada do Herói, com altos e baixos, vilões e heróis, vitórias e derrotas.
 
 Uma vilã em especial, Starlight Glimmer, possui um arco de personagem que pode ser (e, por vezes é) considerado o melhor de toda a série. Uma vilã que possui uma conexão pessoal com os protagonistas da trama, por eles terem conseguido amizade entre si a partir do completo acaso, enquanto que esse mesmo acaso retirou a única amizade dela.
 
