@@ -1,7 +1,7 @@
 ---
-title: "{{title}}"
-draft: true
+title: {{title}}
 tags:
 date: {{date}}
 modified: {{date}}
+publish: false
 ---

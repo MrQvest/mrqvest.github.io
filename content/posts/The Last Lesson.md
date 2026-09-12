@@ -1,12 +1,10 @@
 ---
-publish: true
 title: The Last Lesson
-created: 2024-09-04
-modified: 2026-09-12T13:19:54.772Z
 tags:
   - fictions/fanfics
+date: 2024-09-04
+publish: true
 ---
-
 > [!info]+ Nota do Autor
 > Essa história foi originalmente publicada em https://www.fimfiction.net/story/564587/1/the-last-lesson/the-last-lesson
 
@@ -20,7 +18,7 @@ Twilight is in Canterlot Castle, sitting down in front of a stained glass panel 
 
 "Yes Starlight, everything’s fine, just remembering the old days." Before promptly standing up and heading outside, accompanied by Starlight. As they pass through the doorway, their images fade and their voices echoes, Twilight is still sitting down in front of the glass panel, alone. She sighs, it echoes through the room. After half a minute contemplating the image, Twilight stands up and heads outside.
 
-It is a beautiful day, the light of the sun shines through the blue skies, clashing with the grass. Twilight is taking a walk through the field, a small breeze flowing against her makes it relaxing and eases her mind a little. Her destination is a hill in the horizon with a single tree on top. The birds chirping and the sound of the trees leaves against the breeze makes the situation more bearable, even peaceful, one could say.
+It is a beautiful day, the light of the sun shines through the blue skies, clashing with the grass. Twilight is taking a walk through the field, a small breeze flowing against her makes it relaxing and eases her mind a little. Her destination is a hill in the horizon with a single tree on top. The birds chirping and the sound of the trees leaves against the breeze makes the situation more bearable, even peaceful, one could say.  
 
 As she arrives on top of the hill, six gravestones can be seen. She felt a small tear flow through her face.
 
@@ -54,7 +52,7 @@ As she arrives on top of the hill, six gravestones can be seen. She felt a small
 
 "Yes, it certainly has been…"
 
-"Does she know about these unfortunate news yet?"
+"Does she know about these unfortunate news yet?"  
 
 "No… I-"
 
@@ -80,7 +78,7 @@ With a deep breath, Twilight began to write:
 
 At the other side, she was met by a yellow hand to help her up and a welcoming embrace by Sunset:
 
-"Twilight! Hello again!" It was dark, Twilight recognized Sunset’s voice, but it was very hard to see. She heard the flick of a switch and was promptly blinded by the light:
+"Twilight! Hello again!" It was dark, Twilight recognized Sunset’s voice, but it was very hard to see. She heard the flick of a switch and was promptly blinded by the light:  
 
 "SURPRISE!" 6 voices shouted in unison.
 
