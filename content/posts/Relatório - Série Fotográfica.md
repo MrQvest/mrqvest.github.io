@@ -5,10 +5,8 @@ tags:
   - university
 date: 2026-09-12
 modified: 2026-09-12
-publish: false
+publish: true
 ---
-# Relatório Fotográfico: [Título da Série]
-
 ## Conceito e Escolha do Tema
 
 - **Tema central:** Natureza e animais
@@ -57,23 +55,30 @@ publish: false
 
 #### Fotografia do Exótico, Excêntrico ou Estranho — Animal / Mineral
 
-- **Exemplo / Referência:** 
+- **Exemplo / Referência:
 
-- **Análise da imagem:** 
+![](https://royalsociety.org/-/media/journals/photo-competition/2025/behaviour-winner-2025.jpg)
 
 #### Encontro entre Ciência e Antropologia
 
-- **Exemplo / Referência:** 
+- **Exemplo / Referência**
 
-- **Análise da imagem:** 
+![](https://www.nature.com/immersive/d41586-026-01819-8/assets/3snJIJtfa0/2026-06-11_careers-feature_scientist-at-work_lede_sh-2501x1668.webp)
 
----
+#### Imagens Autorais
 
-## 7. Análise de Fotografia de Referência
+Abaixo estão as fotos da série
 
-![[link_ou_caminho_da_imagem.jpg]]
+![[IMG_20260910_092249337_web.jpg]]
 
-- **Título da Obra / Autor:** 
-- **Contexto (Histórico, concurso ou científico):** 
-- **Justificativa da escolha:** 
-- **Impacto técnico e conceitual:**
+![[IMG_20260910_092334968_web.jpg]]
+
+![[IMG_20260910_092254654_web.jpg]]
+
+![[IMG_20260910_092255582_web.jpg]]
+
+![[IMG_20260910_092301130_web.jpg]]
+
+![[IMG_20260910_092306205_web.jpg]]
+
+Este trabalho está licenciado sob CC BY 4.0. Para visualizar uma cópia desta licença, visite https://creativecommons.org/licenses/by/4.0/
