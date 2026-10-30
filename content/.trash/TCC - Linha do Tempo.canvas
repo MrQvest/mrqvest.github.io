@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9ca9657320da7159","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Aterrizagem em Nuremberga"},
+		{"id":"543e38c0509bf1a3","x":360,"y":-30,"width":250,"height":60,"type":"text","text":"[[Annafest]]"}
+	],
+	"edges":[
+		{"id":"eda3882268b48f3a","fromNode":"9ca9657320da7159","fromSide":"right","toNode":"543e38c0509bf1a3","toSide":"left"}
+	]
+}
