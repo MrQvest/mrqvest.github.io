@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: O Porto
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: pt-BR
   baseUrl: mrqvest.github.io
   ignorePatterns:
     - private
@@ -175,6 +175,8 @@ plugins:
     layout:
       position: beforeBody
       priority: 10
+      display: all
+      condition: not-index
   - source: "@quartz-community/content-meta"
     enabled: true
     layout:
@@ -263,6 +265,10 @@ plugins:
       initialZoom: 1
       minZoom: 0.1
       maxZoom: 5
+    order: 50
+  - source: github:quartz-community/tui
+    enabled: true
+    options: {}
     order: 50
 layout:
   groups:

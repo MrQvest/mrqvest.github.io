@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"daba39fc2aa96b56","type":"file","file":"posts/Aterrissagem em Amserdã.md","x":-1080,"y":-305,"width":660,"height":600,"color":"#5f63ce"},
+		{"id":"dd8624edab88bdb8","type":"file","file":"posts/Annafest.md","x":-200,"y":-275,"width":500,"height":570,"color":"1"}
+	],
+	"edges":[
+		{"id":"bb74355809bd2aa3","fromNode":"daba39fc2aa96b56","fromSide":"right","toNode":"dd8624edab88bdb8","toSide":"left"}
+	]
+}
