@@ -6,7 +6,6 @@ modified: 2026-09-12T13:19:54.772Z
 tags:
   - fictions/fanfics
 ---
-
 > [!info]+ Nota do Autor
 > Essa história foi originalmente publicada em https://www.fimfiction.net/story/564587/1/the-last-lesson/the-last-lesson
 
