@@ -28,3 +28,5 @@ Uma capela foi consagrada em 1516 dedicada a Santa Ana perto da cidade de Forche
 Quando a sociedade de tiro de Forcheim transferiu sua competição principal para *Kellerwald* em 1840, nasceu o *Annafest*.
 
 A mostra exibe imagens e vídeos de um arquivo pessoal do curador e possuem classificação livre.
+
+[[6° Semestre - Curadoria.canvas]]
