@@ -1,12 +1,6 @@
 {
   "version": "1.0.0",
   "plugins": {
-    "canvas-page": {
-      "source": "github:quartz-community/canvas-page",
-      "resolved": "https://github.com/quartz-community/canvas-page.git",
-      "commit": "8699230b7728cdd0a0ae3603c7ba18f48d3d55a4",
-      "installedAt": "2026-10-30T15:29:47.355Z"
-    },
     "tui": {
       "source": "github:quartz-community/tui",
       "resolved": "https://github.com/quartz-community/tui.git",
