@@ -31,7 +31,7 @@ Essa página atualmente guarda tanto meus projetos pessoais quanto projetos univ
 
 ### Cátedra Vilém Flusser
 
-[[Nomadismo de Flusser - As Três Catástrofes]]
+[[Flusser - Nomadismo - As Três Catástrofes]]
 
 # Projetos Pessoais
 
