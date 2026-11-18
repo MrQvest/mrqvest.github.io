@@ -25,6 +25,8 @@ Norval apresenta as “Reflexões Nômades” como uma chave para entender o pen
 
 Rolf Kaluweit comenta o ensaio de Flusser de 1990 sobre o nomadismo e o discute com ressalvas. Elogia a clareza fenomenológica de Flusser, que distingue com precisão o nômade do migrante, e mostra que o ensaio tem forma tradicional, mas conteúdo que a desestabiliza. Questiona, porém, se foi mesmo a informação, e não a industrialização, que encerrou o Neolítico, e se a mídia não produz também um novo sedentarismo. Aponta ainda que o nomadismo não é só virtual, pois a mobilidade física cresce, e que ele é um privilégio de quem tem recursos. Conclui que é cedo para afirmar uma mudança epocal radical e propõe alternar entre as figuras do nômade e do “idiota” como forma de resistir ao estresse da conexão constante.
 
+**Palavras-chave**: internet, informação, tecnologia, imagens digitais, mobilidade virtual.
+
 Vídeos recomendados:
 
 ![](https://youtu.be/J8hzJxb0rpc)

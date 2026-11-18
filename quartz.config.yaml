@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Merriweather Sans
+      header: Inter
       body: Inter
       code: IBM Plex Mono
     colors:
