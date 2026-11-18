@@ -247,7 +247,7 @@ plugins:
       priority: 15
       display: all
   - source: github:quartz-community/tui
-    enabled: true
+    enabled: false
     options: {}
     order: 50
 layout:
