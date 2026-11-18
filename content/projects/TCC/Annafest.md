@@ -1,6 +1,5 @@
 ---
 draft: false
-title: Annafest
 date: 2026-10-30
 modified: 2026-10-30
 tags:

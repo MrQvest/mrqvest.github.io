@@ -1,6 +1,5 @@
 ---
 draft: false
-title: Hope Defies Reality
 date: 2023-11-04
 modified: 2026-09-17
 tags:

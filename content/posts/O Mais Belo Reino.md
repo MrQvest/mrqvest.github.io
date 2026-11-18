@@ -1,6 +1,5 @@
 ---
 draft: false
-title: O Mais Belo Reino
 date: 2023-10-15
 modified: 2026-09-19
 tags:

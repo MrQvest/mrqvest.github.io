@@ -8,5 +8,6 @@ Olá. Boas vindas ao meu Porto. Me chamo Ian Meyer e esse é o meu canto na Inte
 
 Você pode dar uma olhada em meu [[Portfólio]], onde guardo as coisas que faço durante a universidade, inclusive as que já fiz.
 
+Saiba mais sobre como construí este site [[sobre|aqui]].
 > [!info]
 > Essa página ainda está em construção.

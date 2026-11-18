@@ -1,12 +1,10 @@
 ---
 draft: false
-title: Filme de Arquivo
 date: 2026-06-21
 modified: 2026-06-21
 tags:
   - university
 ---
-
 # Relatório de Processo
 
 ![](https://youtu.be/Rbloulynenw)

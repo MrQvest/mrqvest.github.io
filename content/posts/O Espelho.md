@@ -1,6 +1,5 @@
 ---
 draft: false
-title: O Espelho
 date: 2024-10-08
 modified: 2026-09-17
 tags:

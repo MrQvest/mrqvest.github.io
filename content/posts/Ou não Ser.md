@@ -1,6 +1,5 @@
 ---
 draft: false
-title: Ou não Ser
 date: 2026-10-26
 modified: 2026-10-26
 tags:

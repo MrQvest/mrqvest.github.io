@@ -1,6 +1,5 @@
 ---
 draft: false
-title: The Last Lesson
 date: 2024-09-04
 modified: 2026-09-12T13:19:54.772Z
 tags:

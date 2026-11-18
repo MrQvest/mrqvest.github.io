@@ -1,6 +1,5 @@
 ---
 draft: true
-title: Estudo científico na universidade
 date: 2025-08-18
 modified: 2026-10-31
 tags:

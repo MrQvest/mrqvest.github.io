@@ -1,6 +1,5 @@
 ---
 draft: false
-title: At the Top
 date: 2023-10-17
 modified: 2026-09-19
 tags:

@@ -1,6 +1,5 @@
 ---
 draft: false
-title: Portfólio
 date: 2026-06-21
 modified: 2026-10-30
 tags:
@@ -29,6 +28,10 @@ Essa página atualmente guarda tanto meus projetos pessoais quanto projetos univ
 ### Curadorias - Conceitos e Práticas
 
 [[Francônia - Arquitetura e Cultura|Francônia: Arquitetura e Cultura]]
+
+### Cátedra Vilém Flusser
+
+[[Nomadismo de Flusser - As Três Catástrofes]]
 
 # Projetos Pessoais
 

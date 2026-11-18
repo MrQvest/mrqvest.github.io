@@ -1,6 +1,5 @@
 ---
 draft: false
-title: Viartti Survità
 date: 2023-09-20
 modified: 2026-09-19
 tags:

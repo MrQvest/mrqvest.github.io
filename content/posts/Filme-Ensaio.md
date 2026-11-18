@@ -1,6 +1,5 @@
 ---
 draft: false
-title: Filme-Ensaio
 date: 2026-06-21
 modified: 2026-06-21
 tags:

@@ -1,6 +1,5 @@
 ---
 draft: false
-title: Relatório - Série Fotográfica
 date: 2026-09-12
 modified: 2026-10-26
 tags:
