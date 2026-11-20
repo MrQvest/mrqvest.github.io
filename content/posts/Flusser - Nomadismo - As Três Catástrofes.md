@@ -5,6 +5,9 @@ modified: 2026-11-18
 tags:
   - university
 ---
+Pesquisas e textos: Ana Luíza Oshiro Pereira
+Website e texto da 1° página: Ian Phillip Yamazi Meyer
+
 ![[resumo-imagem.jpeg]]
 
 Em Reflexões Nômades, Vilém Flusser reinterpreta a história humana dividindo o tempo a partir de **três catástrofes existenciais** que explicam a dinâmica entre nomadismo e sedentarismo. A **[[Flusser - Nomadismo - Hominização|primeira catástrofe]]**, chamada de **hominização**, marca o surgimento da espécie humana na Idade da Pedra mais antiga e manifesta-se pelo uso de ferramentas de pedra. Durante esse longo período paleolítico, a humanidade viveu como caçadora e coletora nômade, definindo sua existência pelo movimento constante e pela **experiência (_Erfahrung_)** em um continuum espaço-tempo, sem o apego à propriedade privada.
