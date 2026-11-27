@@ -5,6 +5,7 @@ import os from "os"
 import path from "path"
 import {
   collectComponents,
+  collectTreeTransforms,
   folderTrie,
   generateVirtualPages,
   pageOutputPath,
@@ -15,7 +16,7 @@ import {
 } from "./dispatcher"
 import { QuartzPageTypePluginInstance } from "../types"
 import { QuartzComponent } from "../../components/types"
-import { FilePath, FullSlug, SimpleSlug } from "../../util/path"
+import { FilePath, FullSlug, SimpleSlug, setSlugOptions } from "../../util/path"
 import { Root as HtmlRoot } from "hast"
 import { BuildCtx } from "../../util/ctx"
 import { defaultProcessedContent } from "../vfile"
@@ -130,6 +131,33 @@ describe("resolveLayout frame resolution", () => {
   test("defaults to 'default' when byPageType entry exists but has no frame", () => {
     const result = resolveLayout(makePageType(), { head: StubHead }, { content: { left: [StubA] } })
     assert.strictEqual(result.frame, "default")
+  })
+})
+
+describe("collectTreeTransforms", () => {
+  test("transformers' renderTransforms wrap the page types' treeTransforms, in plugin order", () => {
+    const t = (name: string) => Object.assign(() => {}, { tname: name })
+    const ctx = {
+      cfg: {
+        plugins: {
+          transformers: [
+            {
+              name: "a",
+              renderTransforms: () => ({ before: [t("a-before")], after: [t("a-after")] }),
+            },
+            { name: "b", htmlPlugins: () => [] },
+            { name: "c", renderTransforms: () => ({ after: [t("c-after")] }) },
+          ],
+        },
+      },
+    } as unknown as BuildCtx
+    const result = collectTreeTransforms(ctx, [
+      makePageType({ treeTransforms: () => [t("page") as never] }),
+    ])
+    const names = (list: unknown[]) => list.map((f) => (f as { tname: string }).tname)
+    assert.deepStrictEqual(names(result.before), ["a-before"])
+    assert.deepStrictEqual(names(result.treeTransforms), ["page"])
+    assert.deepStrictEqual(names(result.after), ["a-after", "c-after"])
   })
 })
 
@@ -248,6 +276,27 @@ describe("generateVirtualPages", () => {
     )
     assert.strictEqual(entries[1].vfile.data.slug, "mdx/b")
     assert.strictEqual(ctx.virtualPages.length, 2)
+  })
+
+  test("slugs.stripDiacritics moves folder pages to the stripped folder slug (#2410)", async () => {
+    setSlugOptions({ stripDiacritics: true })
+    try {
+      const entries = await generateVirtualPages(
+        [makePageType({ generate: () => [page("české/index"), page("tags/čeština")] })],
+        [],
+        makeCtx(),
+        { head: StubHead },
+        {},
+      )
+      // tag pages keep their slugs: tag links are slugged by the plugins that render them
+      assert.deepStrictEqual(
+        entries.map((e) => e.vpSlug),
+        ["ceske/index", "tags/čeština"],
+      )
+      assert.strictEqual(entries[0].vfile.data.slug, "ceske/index")
+    } finally {
+      setSlugOptions(undefined)
+    }
   })
 
   test("keeps the 404 page out of ctx.virtualPages", async () => {
